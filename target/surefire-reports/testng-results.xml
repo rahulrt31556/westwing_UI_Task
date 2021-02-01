@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="46931" started-at="2021-02-01T22:48:07 CET" finished-at="2021-02-01T22:48:54 CET">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="46931" started-at="2021-02-01T22:48:07 CET" finished-at="2021-02-01T22:48:54 CET">
+      <class name="com.westwing.testcases.SearchResultListPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.westwing.testcases.SearchResultListPageTest@148080bb]" name="setUp" is-config="true" duration-ms="6264" started-at="2021-02-01T22:48:08 CET" finished-at="2021-02-01T22:48:14 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchFurnitureTest()[pri:0, instance:com.westwing.testcases.SearchResultListPageTest@148080bb]" name="searchFurnitureTest" duration-ms="4694" started-at="2021-02-01T22:48:14 CET" finished-at="2021-02-01T22:48:18 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchFurnitureTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.westwing.testcases.SearchResultListPageTest@148080bb]" name="tearDown" is-config="true" duration-ms="685" started-at="2021-02-01T22:48:19 CET" finished-at="2021-02-01T22:48:19 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.westwing.testcases.SearchResultListPageTest -->
+      <class name="com.westwing.testcases.WishListPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.westwing.testcases.WishListPageTest@dc24521]" name="setUp" is-config="true" duration-ms="4766" started-at="2021-02-01T22:48:19 CET" finished-at="2021-02-01T22:48:24 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addToWishListTest()[pri:0, instance:com.westwing.testcases.WishListPageTest@dc24521]" name="addToWishListTest" duration-ms="7772" started-at="2021-02-01T22:48:24 CET" finished-at="2021-02-01T22:48:32 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToWishListTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.westwing.testcases.WishListPageTest@dc24521]" name="tearDown" is-config="true" duration-ms="620" started-at="2021-02-01T22:48:32 CET" finished-at="2021-02-01T22:48:32 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.westwing.testcases.WishListPageTest@dc24521]" name="setUp" is-config="true" duration-ms="4622" started-at="2021-02-01T22:48:32 CET" finished-at="2021-02-01T22:48:37 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="deleteFromWishListTest()[pri:0, instance:com.westwing.testcases.WishListPageTest@dc24521]" name="deleteFromWishListTest" duration-ms="8066" started-at="2021-02-01T22:48:37 CET" finished-at="2021-02-01T22:48:45 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteFromWishListTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.westwing.testcases.WishListPageTest@dc24521]" name="tearDown" is-config="true" duration-ms="760" started-at="2021-02-01T22:48:45 CET" finished-at="2021-02-01T22:48:46 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.westwing.testcases.WishListPageTest -->
+      <class name="com.westwing.testcases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.westwing.testcases.HomePageTest@10bdf5e5]" name="setUp" is-config="true" duration-ms="5734" started-at="2021-02-01T22:48:46 CET" finished-at="2021-02-01T22:48:52 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="openAndValidateHomePage()[pri:0, instance:com.westwing.testcases.HomePageTest@10bdf5e5]" name="openAndValidateHomePage" duration-ms="2205" started-at="2021-02-01T22:48:52 CET" finished-at="2021-02-01T22:48:54 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAndValidateHomePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.westwing.testcases.HomePageTest@10bdf5e5]" name="tearDown" is-config="true" duration-ms="666" started-at="2021-02-01T22:48:54 CET" finished-at="2021-02-01T22:48:54 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.westwing.testcases.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

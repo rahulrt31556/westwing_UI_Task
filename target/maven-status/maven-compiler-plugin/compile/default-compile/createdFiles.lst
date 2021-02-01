@@ -1,0 +1,6 @@
+com\westwing\base\TestBase.class
+com\westwing\util\WebEventListener.class
+com\westwing\pages\WishListPage.class
+com\westwing\pages\SearchResultListPage.class
+com\westwing\util\TestUtil.class
+com\westwing\pages\HomePage.class
